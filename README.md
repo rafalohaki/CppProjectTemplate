@@ -18,3 +18,6 @@ C++ project template
 
 [license-image]: https://img.shields.io/badge/License-Apache%202.0-blue.svg
 [license-url]: LICENSE
+
+
+[![C/C++ CI](https://github.com/rafalohaki/CppProjectTemplate/actions/workflows/.github.yml/badge.svg)](https://github.com/rafalohaki/CppProjectTemplate/actions/workflows/.github.yml)
